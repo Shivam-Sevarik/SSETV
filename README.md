@@ -66,5 +66,7 @@ To use SSETV in your project add the following 'Podfile' to your project
 	use_frameworks!
     	pod 'SSETV', '~> 0.0.1' 
 
-    Then run:
+
+Then run:
+
         pod install
