@@ -64,7 +64,7 @@ To use SSETV in your project add the following 'Podfile' to your project
 	source 'https://github.com/CocoaPods/Specs.git'
 	platform :ios, '9.0'
 	use_frameworks!
-    pod 'SSETV', '~> 0.0.1'
+    	pod 'SSETV', '~> 0.0.1' 
 
-Then run:
-    pod install
+    Then run:
+        pod install
